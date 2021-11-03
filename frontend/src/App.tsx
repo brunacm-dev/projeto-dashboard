@@ -2,7 +2,7 @@
 function App() {
   return (
     <div>
-      <h1>Projeto Zerado</h1>
+      <h1 className="text-primary">Projeto Zerado</h1>
     </div>
   );
 }
